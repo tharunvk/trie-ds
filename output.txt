@@ -1,0 +1,138 @@
+Choose any option                                                                                                                                                                    
+-----------------                                                                                                                                                                    
+1.Insert                                                                                                                                                                             
+2.Search                                                                                                                                                                             
+3.Display                                                                                                                                                                            
+4.Auto recommendation                                                                                                                                                                
+5.Delete                                                                                                                                                                             
+Tap any other key to exit.......                                                                                                                                                     
+                                                                                                                                                                                     
+3                                                                                                                                                                                    
+All the strings stored in Trie are :                                                                                                                                                 
+------------------------------------                                                                                                                                                 
+Trie is empty. Better insert some strings and check again                                                                                                                            
+                                                                                                                                                                                     
+Choose any option                                                                                                                                                                    
+-----------------                                                                                                                                                                    
+1.Insert                                                                                                                                                                             
+2.Search                                                                                                                                                                             
+3.Display                                                                                                                                                                            
+4.Auto recommendation                                                                                                                                                                
+5.Delete                                                                                                                                                                             
+Tap any other key to exit.......                                                                                                                                                     
+                                                                                                                                                                                     
+1                                                                                                                                                                                    
+Enter the string to insert into Trie : tharun                                                                                                                                        
+Choose any option                                                                                                                                                                    
+-----------------                                                                                                                                                                    
+1.Insert                                                                                                                                                                             
+2.Search                                                                                                                                                                             
+3.Display                                                                                                                                                                            
+4.Auto recommendation                                                                                                                                                                
+5.Delete                                                                                                                                                                             
+Tap any other key to exit.......                                                                                                                                                     
+                                                                                                                                                                                     
+1                                                                                                                                                                                    
+Enter the string to insert into Trie : thanos
+Choose any option                                                                                                                                                                    
+-----------------                                                                                                                                                                    
+1.Insert                                                                                                                                                                             
+2.Search                                                                                                                                                                             
+3.Display                                                                                                                                                                            
+4.Auto recommendation                                                                                                                                                                
+5.Delete                                                                                                                                                                             
+Tap any other key to exit.......                                                                                                                                                     
+                                                                                                                                                                                     
+1                                                                                                                                                                                    
+Enter the string to insert into Trie : shanthi                                                                                                                                       
+Choose any option                                                                                                                                                                    
+-----------------                                                                                                                                                                    
+1.Insert                                                                                                                                                                             
+2.Search                                                                                                                                                                             
+3.Display                                                                                                                                                                            
+4.Auto recommendation                                                                                                                                                                
+5.Delete                                                                                                                                                                             
+Tap any other key to exit.......                                                                                                                                                     
+                                                                                                                                                                                     
+1                                                                                                                                                                                    
+Enter the string to insert into Trie : tyson                                                                                                                                         
+Choose any option                                                                                                                                                                    
+-----------------                                                                                                                                                                    
+1.Insert                                                                                                                                                                             
+2.Search                                                                                                                                                                             
+3.Display                                                                                                                                                                            
+4.Auto recommendation                                                                                                                                                                
+5.Delete                                                                                                                                                                             
+Tap any other key to exit.......                                                                                                                                                     
+                                                                                                                                                                                     
+1                                                                                                                                                                                    
+Enter the string to insert into Trie : vijaya
+Choose any option                                                                                                                                                                    
+-----------------                                                                                                                                                                    
+1.Insert                                                                                                                                                                             
+2.Search                                                                                                                                                                             
+3.Display                                                                                                                                                                            
+4.Auto recommendation                                                                                                                                                                
+5.Delete                                                                                                                                                                             
+Tap any other key to exit.......                                                                                                                                                     
+                                                                                                                                                                                     
+3                                                                                                                                                                                    
+All the strings stored in Trie are :                                                                                                                                                 
+------------------------------------                                                                                                                                                 
+vijaya                                                                                                                                                                               
+tyson                                                                                                                                                                                
+thanos                                                                                                                                                                               
+tharun                                                                                                                                                                               
+shanthi                                                                                                                                                                              
+Choose any option                                                                                                                                                                    
+-----------------                                                                                                                                                                    
+1.Insert                                                                                                                                                                             
+2.Search                                                                                                                                                                             
+3.Display                                                                                                                                                                            
+4.Auto recommendation                                                                                                                                                                
+5.Delete                                                                                                                                                                             
+Tap any other key to exit.......                                                                                                                                                     
+                                                                                                                                                                                     
+5                                                                                                                                                                                    
+Enter string you wanna delete: shanthi
+Choose any option                                                                                                                                                                    
+-----------------                                                                                                                                                                    
+1.Insert                                                                                                                                                                             
+2.Search                                                                                                                                                                             
+3.Display                                                                                                                                                                            
+4.Auto recommendation                                                                                                                                                                
+5.Delete                                                                                                                                                                             
+Tap any other key to exit.......                                                                                                                                                     
+                                                                                                                                                                                     
+3                                                                                                                                                                                    
+All the strings stored in Trie are :                                                                                                                                                 
+------------------------------------                                                                                                                                                 
+vijaya                                                                                                                                                                               
+tyson                                                                                                                                                                                
+thanos                                                                                                                                                                               
+tharun                                                                                                                                                                               
+Choose any option                                                                                                                                                                    
+-----------------                                                                                                                                                                    
+1.Insert                                                                                                                                                                             
+2.Search                                                                                                                                                                             
+3.Display                                                                                                                                                                            
+4.Auto recommendation                                                                                                                                                                
+5.Delete                                                                                                                                                                             
+Tap any other key to exit.......                                                                                                                                                     
+                                                                                                                                                                                     
+4                                                                                                                                                                                    
+Enter a partial string for auto recommendation : th                                                                                                                                  
+Generating strings starting with th ......                                                                                                                                           
+thanos                                                                                                                                                                               
+tharun                
+Choose any option                                                                                                                                                                    
+-----------------                                                                                                                                                                    
+1.Insert                                                                                                                                                                             
+2.Search                                                                                                                                                                             
+3.Display                                                                                                                                                                            
+4.Auto recommendation                                                                                                                                                                
+5.Delete                                                                                                                                                                             
+Tap any other key to exit.......                                                                                                                                                     
+                                                                                                                                                                                     
+adios                                                                                                                                                                                
+There are only 5 options you moron.
